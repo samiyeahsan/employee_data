@@ -25,5 +25,6 @@ THEN prompted to select an employee to update and their new role and this inform
 ## Preview
 
 The following video shows an example of the application being used from the command line:
+[Deployed Link](https://samiyeahsan.github.io/employee_data/)
 
 [video](https://watch.screencastify.com/v/q5oFLtash8yFjcovRL1V)
